@@ -1,0 +1,20 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Power BI (archivos temporales)
+*.tmp
+~$*
+
+# Credenciales / secretos (NUNCA subir)
+.env
+*.key
+
+# (Opcional) Si los PDFs crudos pesan demasiado para el repo, descomenta
+# la siguiente línea y en el README indica dónde descargarlos:
+# data/raw/
